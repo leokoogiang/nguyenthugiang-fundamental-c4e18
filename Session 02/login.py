@@ -1,4 +1,4 @@
-username = input('USername: ')
+username = input('Username: ')
 password = input('Passoword: ')
 
 if username == "c4e":
@@ -9,7 +9,7 @@ if username == "c4e":
 
 
 else:
-    print("No sucj user. Go away!")
+    print("No such user. Go away!")
 
 # Nen dung cach nay
 
