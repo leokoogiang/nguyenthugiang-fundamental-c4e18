@@ -1,21 +1,27 @@
 from turtle import*
+speed(1)
+shape('classic')
 color('red')
-for i in range(4):
-    left(60)
-    forward(150)
-    left(60)
-    forward(150)
-    left(120)
-    forward(150)
-    left(60)
-    forward(150)
-    right(30)
+
+left(60)
+forward(100)
+left(60)
+forward(100)
+left(120)
+forward(100)
+left(60)
+forward(100)
+
+right(60)
+forward(100)
+left(60)
+forward(100)
+left(120)
+forward(100)
+left(60)
+forward(100)
 
 
-
-# forward(150)
-# right(30)
-# forward(150)
 
 
 mainloop()
